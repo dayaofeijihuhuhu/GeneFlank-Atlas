@@ -61,7 +61,6 @@ At least **one** sequence identifier column must also be present: `file`, `seq`,
 | `serovar` or `serotype` | Serovar/serotype annotation. |
 | `label` | Optional label carried in the input dataset. |
 
-
 ### Illustrative TSV example
 
 ```tsv
