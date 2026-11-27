@@ -43,7 +43,7 @@ Input must be a **UTF-8 tab-separated file (`.tsv`)** with one row per annotated
 | `strand` or `orientation` | Gene orientation: `1`, `-1`, `+`, or `-`. |
 | `db_name` | Annotation database, used for gene colors (e.g., `ResFinder`, `ISfinder`, `UniProtKB`). |
 
-At least **one** sequence identifier column must also be present: `file`, `seq`, or `seq_id`. Using both `file` and `seq` is recommended to distinguish sequences across genomes. **The `molecule` column is not required.**
+At least **one** sequence identifier column must also be present: `file`, `seq`, or `seq_id`. Using both `file` and `seq` is recommended to distinguish sequences across genomes. 
 
 ### Recommended additional fields
 
@@ -61,7 +61,6 @@ At least **one** sequence identifier column must also be present: `file`, `seq`,
 | `serovar` or `serotype` | Serovar/serotype annotation. |
 | `label` | Optional label carried in the input dataset. |
 
-Column names are matched case-insensitively. The application also recognizes `strand` as an alias of `orientation`, `gene2` as an alias of `gene_short`, and `serovar` as an alias of `serotype`.
 
 ### Illustrative TSV example
 
