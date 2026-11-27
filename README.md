@@ -2,6 +2,9 @@
 
 **An interactive, browser-based atlas for exploring antimicrobial resistance gene (ARG) neighborhoods and their genomic contexts.**
 
+![alt text](https://github.com/dayaofeijihuhuhu/GeneFlank-Atlas/tree/main/image/GeneFlank-Atlas.png?raw=true)
+<img width="1030" height="42" alt="image" src="https://github.com/user-attachments/assets/604e255c-5605-4af5-9246-8ec9d10e7c92" />
+
 GeneFlank Atlas visualizes the arrangement, orientation, and annotations of genes surrounding resistance loci. It supports cluster-specific exploration, sequence comparisons, and summaries of the source composition of each ARG cluster. The application runs entirely in the browser and can also be used offline.
 
 **Web application:** https://dayaofeijihuhuhu.github.io/GeneFlank-Atlas/  
